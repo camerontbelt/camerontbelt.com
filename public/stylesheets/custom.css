@@ -1,0 +1,28 @@
+body {
+    padding-top: 100px;
+}
+
+::selection{
+    background: #808080;
+}
+
+
+a:link,
+a:visited,
+a:hover{
+    color: #000000;
+    text-decoration: none;
+}
+
+
+.vertical-center{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+hr{
+    border: 1px solid #000000;
+    border-bottom: 1px solid #ffffff;
+}
