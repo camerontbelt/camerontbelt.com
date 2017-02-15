@@ -6,6 +6,10 @@ body {
     background: #808080;
 }
 
+.row-padding{
+    padding-left: 15px;
+    padding-right: 15px;
+}
 
 a:link,
 a:visited,
