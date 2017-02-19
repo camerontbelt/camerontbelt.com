@@ -1,5 +1,5 @@
 body {
-    padding-top: 100px;
+    padding-top: 25px;
 }
 
 ::selection{
@@ -7,8 +7,8 @@ body {
 }
 
 .row-padding{
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 a:link,
@@ -29,4 +29,14 @@ a:hover{
 hr{
     border: 1px solid #000000;
     border-bottom: 1px solid #ffffff;
+}
+
+.panel, .panel-group .panel-heading+.panel-collapse>.panel-body{
+    border: none;
+    box-shadow: none;
+    
+}
+
+.panel-default > .panel-heading {
+    background-color:#ffffff;
 }
