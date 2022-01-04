@@ -1,0 +1,41 @@
+﻿body {
+    padding-top: 20px;
+}
+
+::selection {
+    background: #808080;
+}
+
+.row-padding {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+a:link,
+a:visited,
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+
+.vertical-center {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+hr {
+    border: 1px solid #000000;
+    border-bottom: 1px solid #ffffff;
+}
+
+.panel, .panel-group .panel-heading + .panel-collapse > .panel-body {
+    border: none;
+    box-shadow: none;
+}
+
+.panel-default > .panel-heading {
+    background-color: #ffffff;
+}

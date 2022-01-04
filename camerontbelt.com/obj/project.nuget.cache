@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ec1aARuoJw7RDh8VbZKXvgzjYSZHFfNbToWo+3kLD6uRkFuG5628zMjxHx/0JHgzM2N5e2ttxLUI8lwCsvJHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cameron\\source\\repos\\camerontbelt.com.net\\camerontbelt.com\\camerontbelt.com.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cameron\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
